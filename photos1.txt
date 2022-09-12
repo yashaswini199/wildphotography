@@ -1,0 +1,19 @@
+<html> 
+<head>
+<title><b>Wild Life</b></title>
+</head>
+<body bgcolor="skyblue">
+<font face="Agency fb"size="40">
+<center><h1>Wild Life Photo Gallery </center></h1>
+</font>
+<input type="button"value="back">
+<center><img src="C:\Users\DELL\Desktop\wild\wild life\wild life\img 1.jpg"width="2000"hight="1000"></center>
+<br>
+<center><img src="C:\Users\DELL\Desktop\wild\wild life\wild life\img 2.jpg"width="2000"hight="1000"></center>
+<br>
+<center><img src="C:\Users\DELL\Desktop\wild\wild life\wild life\img 3.jpg"width="2000"hight="1000"></center>
+<br>
+<center><img src="C:\Users\DELL\Desktop\wild\wild life\wild life\img 4.jpg"width="2000"hight="1000"></center>
+</center>
+</body>
+</html>

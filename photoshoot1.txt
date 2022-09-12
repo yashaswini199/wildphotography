@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>anchor tag</title></head>
+<body bgcolor="yellow">
+<center><h1>PHOTOSHOOT SPOT<h1></center>
+<br>
+<br>
+<br>
+<center><a href="https://www.google.com/maps/place/Maasai+Mara+National+Reserve/@-1.371912,34.9381095,15z/data=!4m12!1m6!3m5!1s0x0:0x296a9587e0c3c410!2sMaasai+Mara+National+Reserve!8m2!3d-1.371912!4d34.9381095!3m4!1s0x0:0x296a9587e0c3c410!8m2!3d-1.371912!4d34.9381095">LOCATION OF MASSAI MARA</a></center>
+<br>
+<br>
+<center><a href="biodata.html"><img src="C:\Users\DELL\Downloads\wild life\download (2).jpg">
+<br>
+<br>
+<br>
+<center><a href="https://www.google.com/maps/place/Denali+National+Park+and+Preserve/@63.1148002,-151.1926057,8z/data=!4m5!3m4!1s0x0:0xc6b53b15131936a5!8m2!3d63.1148002!4d-151.1926057">LOCATION OF DENALI</a></center>
+<br>
+<br>
+<center><a href="biodata.html"><img src="C:\Users\DELL\Downloads\wild life\20190901_123504.jpg">
+<br>
+<br>
+<br>
+<center><a href="https://www.google.com/maps/place/Pantanal/@-17.7166386,-57.4009223,14z/data=!3m1!4b1!4m5!3m4!1s0x9384392ff2be9d51:0x4dba41d159d099ec!8m2!3d-17.7166397!4d-57.3834127">LOCATION OF PANTANAL</a></center>
+<br>
+<br>
+<center><a href="biodata.html"><img src="C:\Users\DELL\Downloads\wild life\images.jpg"</a>
+<br>
+<br>
+<br>
+<center><a href="https://www.google.com/maps/place/Central+Kalahari+Game+Reserve/@-22.351362,23.8631019,8z/data=!4m5!3m4!1s0x0:0x9be6ee084e2af6e8!8m2!3d-22.351362!4d23.8631019">LOCATION OF CENTRAL KALAHARI</a></center>
+<br>
+<br>
+<center><a href="biodata".html"><img src="C:\Users\DELL\Downloads\wild life\central kalahari.JPG"</a>
+</body>
+</html>
